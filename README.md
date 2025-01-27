@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuruddh Kumar!
 
-<!--
-**anur2023/anur2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science student** passionate about extracting insights from data.  
+🤖 Currently diving deep into **Machine Learning** and its real-world applications.  
+💻 Check out my projects on **data analytics**, **ML models**, and **web development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills:
+- Python, Pandas, NumPy, Matplotlib
+- Machine Learning (Scikit-Learn)
+- Data Visualization (Seaborn)
+- Power BI
+- NLP
+- Web Development (Flask, Django)
+
+---
+
+🚀 Let's collaborate and build impactful projects together!
